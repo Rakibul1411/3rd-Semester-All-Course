@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.26)
+project(__Numerical_Differentiation_when_given_Function_value_and_N)
+
+set(CMAKE_CXX_STANDARD 17)
+
+add_executable(__Numerical_Differentiation_when_given_Function_value_and_N main.cpp)
