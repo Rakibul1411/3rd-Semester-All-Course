@@ -1,0 +1,4 @@
+"/Users/md.rakibulislam/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/232.9559.58/CLion.app/Contents/bin/cmake/mac/bin/cmake" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" -S "/Users/md.rakibulislam/Desktop/3rd Semester All Lab Class Code/CSE-301/Rod Cutting Take input from File Using C ( DP )" -B "/Users/md.rakibulislam/Desktop/3rd Semester All Lab Class Code/CSE-301/Rod Cutting Take input from File Using C ( DP )/cmake-build-debug"
+-- Configuring done (0.1s)
+-- Generating done (0.0s)
+-- Build files have been written to: /Users/md.rakibulislam/Desktop/3rd Semester All Lab Class Code/CSE-301/Rod Cutting Take input from File Using C ( DP )/cmake-build-debug

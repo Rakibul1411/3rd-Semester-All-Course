@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "_Rod_Cutting_Take_input_from_File_Using_C___DP__",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "_Rod_Cutting_Take_input_from_File_Using_C___DP__::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-_Rod_Cutting_Take_input_from_File_Using_C___DP__-Debug-c6e60f665ce42df50fc1.json",
+					"name" : "_Rod_Cutting_Take_input_from_File_Using_C___DP__",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/md.rakibulislam/Desktop/3rd Semester All Lab Class Code/CSE-301/Rod Cutting Take input from File Using C ( DP )/cmake-build-debug",
+		"source" : "/Users/md.rakibulislam/Desktop/3rd Semester All Lab Class Code/CSE-301/Rod Cutting Take input from File Using C ( DP )"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}
