@@ -1,4 +1,4 @@
-#include<stdio.h>
+ #include<stdio.h>
 #include<math.h>
 #define PI 3.1416
 int main(){
@@ -9,7 +9,7 @@ double x=a;
 printf("\"x\",\"sin(x)\"\n");
 for(int i=0; i<n; i++){
   x=x+h;
-printf("%lf,%lf\n", x,sin(x));
+printf("%lf, %lf\n", x, sin(x));
 }
 return 0;
 } 
