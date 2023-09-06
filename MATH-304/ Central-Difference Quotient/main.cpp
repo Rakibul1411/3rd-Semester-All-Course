@@ -4,6 +4,7 @@
 using namespace std;
 #define EPS 10.0e-6
 #define f(x) ((x)*(x)+1)
+
 int main() {
     cout<<"Enter the value of a: ";
     double a;
